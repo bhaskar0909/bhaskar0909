@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar</h1>
-<h3 align="center">Welcome to my GitHub profile! A passionate and dedicated data analysis professional with expertise in SQL, Python, and Power BI. I specialize in uncovering valuable insights, solving complex problems, and building data-driven solutions. With a solid foundation in data manipulation, statistical analysis, and visualization, I am skilled at transforming data into actionable insights that drive business success.</h3>
+<h3 align="center">Welcome to my GitHub profile! A passionate and dedicated data analysis professional with expertise in SQL, Python, and Power BI. I specialize in uncovering valuable insights, solving complex problems, and building data-driven solutions.</h3>
 
 - 🌱 I’m currently learning **Sql, Excel, Python,Power bi**
 
