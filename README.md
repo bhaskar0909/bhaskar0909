@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Bhaskar
 
-Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meaningful insights from data and presenting them through **data visualization**, **dashboarding**, and **data wrangling**.I help organizations make informed, data-driven decisions by working with complex datasets and presenting results in a clear and understandable way.
+Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meaningful insights from data and presenting them through  clear visualizations and interactive dashboards. I help organizations make informed, data-driven decisions by working with complex datasets and presenting results in a clear and understandable way.
 
 🔭 **I’m currently working on:**
-- Analyzing **sales data** for a retail company to optimize inventory and pricing strategies.
-- Building interactive **data dashboards** using **Power BI** for real-time decision-making.
-
+- Improving my skills in data visualization using tool like Power BI to create interactive dashboards.
+- Enhancing SQL querying skills to efficiently manipulate and extract insights from databases.
+- Learning advanced Python libraries (e.g., Pandas, Matplotlib, Seaborn) to analyze and visualize data more effectively.
+- Focusing on storytelling with data, to communicate insights clearly and effectively through compelling visualizations.
 
 🌱 **I’m currently learning:**
 - Advanced **SQL** techniques to enhance data manipulation and querying skills.
