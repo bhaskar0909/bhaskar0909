@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meani
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
 - ![Excel](https://img.shields.io/badge/-Excel-black?style=flat&logo=microsoft-excel)
 - ![Power BI](https://img.shields.io/badge/-Power_BI-black?style=flat&logo=power-bi)
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
 ### **Core Data Analysis Skills**:
 - **Data Wrangling**: Cleaning and preparing raw data for analysis (handling missing values, data transformation, etc.).
