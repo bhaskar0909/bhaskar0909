@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meani
 ## 🛠️ Skills & Technologies
 
 ### **Languages & Tools**:
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat)
 - ![Excel](https://img.shields.io/badge/-Excel-black?style=flat&logo=microsoft-excel)
 - ![Power BI](https://img.shields.io/badge/-Power_BI-black?style=flat&logo=power-bi)
