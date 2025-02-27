@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meani
 
 ### **Core Data Analysis Skills**:
 - **Data Wrangling**: Cleaning and preparing raw data for analysis (handling missing values, data transformation, etc.).
-- **Data Visualization**: Creating clear and interactive dashboards using **Power BI**and Python libraries like **Matplotlib** and **Seaborn**.
+- **Data Visualization**: Creating clear and interactive dashboards using **Power BI** and Python libraries like **Matplotlib** and **Seaborn**.
 - **Reporting**: Communicating data insights with clear visualizations and reports to guide business decisions.
 - **Exploratory Data Analysis (EDA)**: Using descriptive statistics and visual tools to explore and summarize datasets.
 
