@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meani
 
 ## 🚀 Personal Projects
 
+- [**E-Commerce Sales Analysis Dashboard**](https://github.com/yourusername/marketing-dashboard): Successfully analyzed e-commerce sales data using Excel and Power BI, developing an interactive Power BI dashboard to visualize key sales metrics and performance indicators. This dashboard empowers strategic decision-making, helping optimize sales strategies and enhance customer targeting.
 - [**Create Card Customer Analysis**](https://github.com/yourusername/retail-sales-analysis): Analysed Credit Card Customers data using MS SQL Server for data management and Python for in-depth analysis, identifying Credit Card limits and transactions.
 - [**Adidas Sales Analysis Dashboard**](https://github.com/yourusername/marketing-dashboard): Successfully analysed Adidas data using SQL and Python for extraction and transformation, Building an interactive dashboard with Power Bi to visualize marketing KPIs.
 
