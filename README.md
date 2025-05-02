@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meani
 🔭 **I’m currently working on:**
 - Improving my skills in data visualization using tool like Power BI to create interactive dashboards.
 - Enhancing SQL querying skills to efficiently manipulate and extract insights from databases.
-- Learning advanced Python libraries (e.g., Pandas, Matplotlib, Seaborn) to analyze and visualize data more effectively.
+- Learning advanced Python libraries (e.g., Pandas, NumPy, Matplotlib,) to analyze and visualize data more effectively.
 - Focusing on storytelling with data, to communicate insights clearly and effectively through compelling visualizations.
 
 🌱 **I’m currently learning:**
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meani
 ## 🛠️ Skills & Technologies
 
 ### **Languages & Tools**:
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat)
 - ![SQL](https://img.shields.io/badge/-SQL-black?style=flat)
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat)
 - ![Excel](https://img.shields.io/badge/-Excel-black?style=flat&logo=microsoft-excel)
 - ![Power BI](https://img.shields.io/badge/-Power_BI-black?style=flat&logo=power-bi)
 
