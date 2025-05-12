@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meaningful insights from data and presenting them through  clear visualizations and interactive dashboards. I help organizations make informed, data-driven decisions by working with complex datasets and presenting results in a clear and understandable way.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar0909&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar0909" /> </p>
+
+
 🔭 **I’m currently working on:**
 - Improving my skills in data visualization using tool like Power BI to create interactive dashboards.
 - Enhancing SQL querying skills to efficiently manipulate and extract insights from databases.
