@@ -1,40 +1,108 @@
 # 👋 Hi, I'm Bhaskar
 
-Welcome to my GitHub profile! I'm a **Data Analyst** focused on extracting meaningful insights from data and presenting them through  clear visualizations and interactive dashboards. I help organizations make informed, data-driven decisions by working with complex datasets and presenting results in a clear and understandable way.
+Welcome to my GitHub profile! I'm an **AI Automation Engineer** focused on building intelligent workflow automations, AI agents, and business systems using modern automation tools and APIs.
 
+I help businesses automate repetitive tasks, improve productivity, and streamline operations using AI-powered solutions.
 
-🔭 **I’m currently working on:**
-- Improving my skills in data visualization using tool like Power BI to create interactive dashboards.
-- Enhancing SQL querying skills to efficiently manipulate and extract insights from databases.
-- Learning advanced Python libraries (e.g., Pandas, NumPy, Matplotlib,) to analyze and visualize data more effectively.
-- Focusing on storytelling with data, to communicate insights clearly and effectively through compelling visualizations.
+---
 
-🌱 **I’m currently learning:**
-- Advanced **SQL** techniques to enhance data manipulation and querying skills.
+## 🚀 What I’m Currently Working On
 
-## 🛠️ Skills & Technologies
+- Building AI agents using **n8n**, **OpenAI**, and API integrations
+- Creating workflow automations for Gmail, Telegram, WhatsApp, Slack, and CRMs
+- Developing multi-agent AI systems for real business use cases
+- Building AI-powered dashboards and reporting systems
+- Improving backend automation architecture and scalable workflow design
 
-### **Languages & Tools**:
-- ![SQL](https://img.shields.io/badge/-SQL-black?style=flat)
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat)
-- ![Excel](https://img.shields.io/badge/-Excel-black?style=flat&logo=microsoft-excel)
-- ![Power BI](https://img.shields.io/badge/-Power_BI-black?style=flat&logo=power-bi)
+---
 
-### **Core Data Analysis Skills**:
-- **Data Wrangling**: Cleaning and preparing raw data for analysis (handling missing values, data transformation, etc.).
-- **Data Visualization**: Creating clear and interactive dashboards using **Power BI** and Python libraries like **Matplotlib** and **Seaborn**.
-- **Reporting**: Communicating data insights with clear visualizations and reports to guide business decisions.
-- **Exploratory Data Analysis (EDA)**: Using descriptive statistics and visual tools to explore and summarize datasets.
+## 🌱 Currently Learning
 
-## 🚀 Personal Projects
+- Advanced AI Agent Architectures
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases
+- Multi-Agent Systems
+- Production-ready Automation Infrastructure
 
-- [**E-Commerce Sales Analysis Dashboard**](https://github.com/yourusername/marketing-dashboard): Successfully analyzed e-commerce sales data using Excel and Power BI, developing an interactive Power BI dashboard to visualize key sales metrics and performance indicators. This dashboard empowers strategic decision-making, helping optimize sales strategies and enhance customer targeting.
-- [**Create Card Customer Analysis**](https://github.com/yourusername/retail-sales-analysis): Analysed Credit Card Customers data using MS SQL Server for data management and Python for in-depth analysis, identifying Credit Card limits and transactions.
-- [**Adidas Sales Analysis Dashboard**](https://github.com/yourusername/marketing-dashboard): Successfully analysed Adidas data using SQL and Python for extraction and transformation, Building an interactive dashboard with Power Bi to visualize marketing KPIs.
+---
 
-## 📫 How to Reach Me
+# 🛠️ Skills & Technologies
 
-- **LinkedIn**: [https://www.linkedin.com/in/bhaskar-gorati-ba8022265/]
-- **Email**: bhaskardata12@gmail.com
+## ⚡ Automation & AI
 
-Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate on data analysis or visualization projects. 🚀
+- n8n
+- OpenAI API
+- AI Agents
+- Workflow Automation
+- Prompt Engineering
+- API Integrations
+- Webhooks
+- REST APIs
+
+---
+
+## 💻 Languages & Tools
+
+- Python
+- JavaScript
+- SQL
+- Git & GitHub
+
+---
+
+## 🔗 Integrations
+
+- Gmail API
+- Telegram Bot API
+- Slack API
+- Google Sheets API
+- Google Calendar API
+- WhatsApp APIs
+- CRM Integrations
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Gmail AI Agent
+AI-powered Gmail auto-reply workflow built using n8n and OpenAI.
+
+### Features
+- AI-generated email replies
+- Smart filtering
+- Automated response handling
+- Gmail integration
+
+---
+
+## 📅 Telegram AI Calendar Assistant
+Telegram-based AI assistant that manages Google Calendar events using natural language.
+
+### Features
+- Create/update/delete calendar events
+- AI-powered scheduling
+- Automated reminders
+- Telegram bot integration
+
+---
+
+## 📊 AI Reporting & Dashboard Automation
+Automated reporting workflows integrated with Power BI, Google Sheets, and AI summarization systems.
+
+### Features
+- Automated data pipelines
+- AI-generated summaries
+- Dashboard automation
+- Scheduled reporting workflows
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/bhaskar-gorati-ba8022265
+- Email: bhaskardata12@gmail.com
+
+---
+
+Thanks for visiting my profile!  
+Feel free to explore my repositories and connect with me for AI automation collaborations 🚀
