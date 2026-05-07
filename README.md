@@ -99,7 +99,7 @@ Automated reporting workflows integrated with Power BI, Google Sheets, and AI su
 
 # 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/bhaskar-gorati-ba8022265
+- LinkedIn: https://www.linkedin.com/in/bhaskarautomation/
 - Email: bhaskardata12@gmail.com
 
 ---
